@@ -93,7 +93,7 @@ http://localhost/UAS/
 
 ## Struktur Folder
 
-UAS/
+UAS-sistem-laundry/
 
 │
 
