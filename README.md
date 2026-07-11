@@ -9,9 +9,10 @@ Sistem Informasi Laundry merupakan aplikasi web berbasis PHP dan MySQL yang digu
 ## Anggota Kelompok
 
 1. Muh. Haikal Baadilah - IK2511020
-2. Nama Anggota 2 - NIM
-3. Nama Anggota 3 - NIM
-4. Nama Anggota 4 - NIM
+2.	A.Nuril Aqilah Aswan - IK2511009
+3.	Cintika Ayu Bella Sampe Toding - IK2511051
+4.	SEPHIRA - IK2511007
+5.	NURUL AQILAH M - IK2511028
 
 ---
 
@@ -48,7 +49,7 @@ Sistem Informasi Laundry merupakan aplikasi web berbasis PHP dan MySQL yang digu
 
 ## Struktur Database
 
-Database yang digunakan adalah **db_laundry**.
+Database yang digunakan adalah **db_sistemlaundry**.
 
 ### Tabel
 
@@ -154,7 +155,7 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) Mata Kuliah Si
 
 ---
 
-**Universitas Andi Djemma**
+**Universitas Mega Buana Palopo**
 
 **Program Studi Informatika**
 
