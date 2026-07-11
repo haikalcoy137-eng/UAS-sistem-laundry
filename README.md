@@ -19,10 +19,11 @@ Sistem Informasi Laundry merupakan aplikasi web berbasis PHP dan MySQL yang digu
 
 | Nama | Tugas |
 |------|-------|
-| Anggota 1 | Analisis kebutuhan, ERD, dan Normalisasi |
-| Anggota 2 | Database SQL (DDL, DML, JOIN, Aggregate, View, Index, DCL, Transaction) |
-| Anggota 3 | CRUD PHP dan Koneksi Database |
-| Anggota 4 | Dokumentasi, Pengujian, dan Presentasi |
+| Muh. Haikal Baadilah | Membuat code php, databae, dan README |
+| A.Nuril Aqilah Aswan | Membuat Laporan |
+| Cintika Ayu Bella Sampe Toding | Membuat Laporan |
+| SEPHIRA | Membuat ERD dan Laporan |
+| NURUL AQILAH M  | Membuat Laporan |
 
 ---
 
