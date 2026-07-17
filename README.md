@@ -68,7 +68,7 @@ Database yang digunakan adalah **db_sistemlaundry**.
 - MySQL / MariaDB
 - HTML5
 - CSS3
-- Bootstrap 5
+- Chat GPT
 - JavaScript
 - XAMPP
 - Visual Studio Code
